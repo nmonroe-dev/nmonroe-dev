@@ -1,6 +1,6 @@
 # Nathan Monroe - Full-Stack Developer 🚀
 
-![Profile Banner](https://yourbannerimageurl.com)
+![Profile Banner](banner.png)
 
 Hi there! 👋 I’m Nathan Monroe, a passionate full-stack developer with a strong focus on creating seamless, user-friendly experiences. I love turning complex problems into simple, beautiful solutions through code. With a diverse background in both front-end and back-end technologies, I’m dedicated to building impactful web applications that solve real-world problems.
 
