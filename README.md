@@ -2,82 +2,96 @@
 
 ![Profile Banner](banner.png)
 
-Hi, I'm Nathan Monroe—an accomplished full-stack developer with a proven track record of delivering transformative solutions for forward-thinking companies. I'm passionate about building impactful, user-focused web applications that drive engagement and optimize operations.
+Hi, I'm **Nathan Monroe** — a results-driven **Full-Stack Developer** based in Texas with a passion for creating impactful, scalable web applications that solve real-world problems. I specialize in crafting tailored digital experiences for startups, political campaigns, real estate professionals, and local businesses. Whether it’s building a campaign donation platform or a field operations app, I merge creativity with technical excellence.
 
-My unique approach blends creative insight with analytical precision, enabling me to anticipate challenges and craft innovative solutions that keep businesses ahead of the curve. I thrive on tackling new challenges and am driven by a relentless commitment to continuous learning and innovation—because for me, code isn't just a tool, it's a way of life.
-
-Let's connect and build something extraordinary that propels your business into the future.
+Let's build something powerful together.
 
 ---
 
 ## 🌟 About Me
-- **Full-Stack Developer** based in DFW, Texas.
-- **Innovative Problem Solver** with a deep passion for building scalable, responsive, and high-performance web applications.
-- **Driven by Excellence:** I continuously push boundaries, master emerging technologies, and turn complex challenges into elegant solutions.
+- **Full-Stack Engineer** specializing in web app architecture and responsive design.
+- **Ex-oilfield Commercial Diver** turned software developer—with over a decade of discipline, grit, and problem-solving.
+- **MERN Stack Expert** with a keen eye for UI performance and scalable back-end systems.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-### **Front-End:**
-- HTML, CSS, JavaScript (ES6+), React.js  
-- Responsive Design, Bootstrap, Material-UI, Tailwind CSS (beginner)
+### **Programming Languages & Frameworks**
+- **Proficient:** JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, React.js, MongoDB, Mongoose, RESTful APIs, Object-Oriented Programming (OOP)
+- **Familiar:** Python, Flask, Middleware, Level Design
+- **Currently Learning:** Next.js, JAMstack, React Native
 
-### **Back-End:**
-- Node.js, Express.js, Python (familiar), Flask  
-- MongoDB, Mongoose, PostgreSQL  
-- RESTful APIs, Authentication & Authorization (JWT, OAuth)
+### **Front-End Development**
+- Responsive UI/UX Design, SPA Architecture
+- Frameworks: React, Bootstrap, Tailwind CSS (Beginner)
 
-### **DevOps & Deployment:**
-- Render, Netlify, GitHub Pages, Heroku  
-- Familiar with AWS & Azure fundamentals
+### **Back-End Development**
+- API Integration, OAuth2 / JWT Auth, Mongoose ODM
+- Data Modeling, NoSQL Optimization, System Architecture
+- Redux for State Management
 
-### **Version Control & Collaboration:**
-- Git, GitHub, Agile Workflows, Peer Code Reviews, Team Collaboration
+### **Testing & Debugging**
+- Postman, Chrome DevTools, Playwright (beginner)
+- TDD, UI Testing, Feature Testing, Logging & Monitoring
 
-### **Other:**
-- Testing & Debugging: Playwright (beginner), Chrome Developer Tools, Postman, Error Handling, Logging & Monitoring  
-- Web Security & Performance: CORS, Security Best Practices, Performance Optimization  
-- Development Processes: SDLC, Workflow Optimization
+### **Deployment & Hosting**
+- Render, Netlify, GitHub Pages, Heroku
+- Familiar with AWS & Azure Fundamentals
+
+### **Collaboration & Version Control**
+- Git, GitHub, Agile SCRUM, Code Reviews, Technical Docs
+
+### **Web Security & Performance**
+- CORS, Secure API Practices, Performance Tuning
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Neighborhood Alert App](https://neighborhood-alert-app-1.onrender.com)
-**Description:** A community safety platform that empowers neighborhoods to report and view incidents in real time.
-- **Key Features:** Secure user login, location-based filtering, interactive community reporting.
-- **Technologies:** MERN stack, Axios, real-time data updates.
+### 🚪 [Neighborhood Alert App](https://neighborhood-alert-app-1.onrender.com)
+A full-stack app that empowers communities to stay safe through real-time alerts and location-based updates.
+- **Features:** Real-time incident alerts, CRUD operations, interactive forms, mobile-first UI.
+- **Tech Stack:** MERN, Geolocation APIs, MVC structure
 
-### [MetroPulse](https://metropulse.onrender.com)
-**Description:** An online newspaper platform delivering dynamic, personalized news content.
-- **Key Features:** RSS feed integration, advanced filtering by category, modern responsive design.
-- **Technologies:** MERN stack, React Router, modular CSS.
+### 📰 [MetroPulse](https://metropulse.onrender.com)
+A West Texas news aggregator that scrapes local news and delivers daily updates via a mobile-optimized interface.
+- **Features:** RSS/data scraping with Cheerio, dynamic filters, automated cron jobs.
+- **Tech Stack:** MongoDB, Mongoose, Express.js, React.js
 
-### [On-Site Pro](https://onsite-pro.onrender.com)
-**Description:** A field management solution designed to streamline operations for oil & gas companies.
-- **Key Features:** Interactive maps powered by React Leaflet, geocoding API integration, dynamic data filtering.
-- **Technologies:** MERN stack, React Leaflet, robust backend architecture.
+### ⚖️ [On-Site Pro](https://onsite-pro.onrender.com)
+An oilfield operations app used in real-world FRAC jobs for safety and check-in management.
+- **Features:** GPS tracking, JSA uploads, dynamic hospital geolocation, check-in/out logging.
+- **Tech Stack:** MERN, Leaflet.js, Geocoding API
 
----
+### 🗺️ [Kevin Conner Campaign Site](https://kevin-conner.com)
+A donation-ready political campaign site supporting a local candidate for tax assessor.
+- **Features:** Payment API, volunteer form, mobile-friendly landing page, SEO-ready
+- **Tech Stack:** Express.js, EJS, MongoDB
 
-## 📢 How to Reach Me
-- **Portfolio:** [nathan-d-monroe.com](https://nathan-d-monroe.com)
-- **LinkedIn:** [Nathan Monroe](https://www.linkedin.com/in/nathan-d-monroe/)
-- **Email:** [nmonroe.dev@gmail.com](mailto:nmonroe.dev@gmail.com)
-- **GitHub:** [Nathan Monroe](https://github.com/nmonroe-dev)
-
----
-
-
-## 🎯 Goals & Vision
-- **Career Goals**: To collaborate with innovative teams and contribute to building world-class applications that leave a lasting impact.
-- **Personal Mission**: To create intuitive, scalable, and transformative digital experiences.
-- **Long-Term Aspiration**: To be a thought leader in full-stack development and mentor the next generation of developers.
+### 🍽️ [BiteBox](#)
+A sleek recipe app with a clean UI for browsing, filtering, and saving your favorite meals.
+- **Features:** Dynamic search & filters, CRUD recipe management
+- **Tech Stack:** React.js, Express.js, MongoDB
 
 ---
 
-**Let’s build something extraordinary together!**
+## 💬 Connect With Me
+- 🔗 **Portfolio:** [nathan-d-monroe.com](https://nathan-d-monroe.com)
+- 👤 **LinkedIn:** [Nathan Monroe](https://www.linkedin.com/in/nathan-d-monroe/)
+- 📧 **Email:** [nmonroe.dev@gmail.com](mailto:nmonroe.dev@gmail.com)
+- 💻 **GitHub:** [nmonroe-dev](https://github.com/nmonroe-dev)
 
+---
 
+## 🌟 Goals & Vision
+- **Short-Term:** Land a role where I can contribute to impactful software projects and grow with a high-performing team.
+- **Long-Term:** Mentor junior developers, speak at tech conferences, and eventually lead engineering teams or launch my own dev agency.
+- **Mission:** Deliver software that helps people—whether it's making communities safer, businesses more efficient, or governments more accessible.
+
+---
+
+> "I bring the discipline of a diver, the eye of a designer, and the brain of a builder. Let's make great things together."
+
+---
 
